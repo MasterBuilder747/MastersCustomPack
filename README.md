@@ -1,2 +1,2 @@
-# MastersCustomPack
-An expert exploration pack
+# Adventures of Automation Ages
+Explore. Progress. Automate!
