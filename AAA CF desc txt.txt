@@ -1,0 +1,96 @@
+Welcome to Adventures of Automation Ages! This crazy pack has all the mods to automate all the things! But there's more! You also need to go out and adventure throughout the world...and beyond! This expert pack offers both of those experiences, separated into ages!
+
+ 
+
+"This pack is such high quality, it's AAA grade :D"
+
+ 
+
+0.6.0: What's new: The pack has now been released as a playable version from my testing platform! It's been 8 months, so as of now, mods have been removed and added from 0.5.1!
+
+DISCLAIMER: PLEASE DO NOT LOAD OLD WORLDS FROM 0.5.1! Since I have changed the mod for handling the ID block limit from Not enough IDs to Just Enough IDs, your world WILL be corrupted due to ID changes!!!!! I AM NOT RESPONSIBLE FOR CORRUPTED WORLDS!!!!
+
+ 
+
+Current state for pack development:
+
+[x] completed
+
+[-] in progress
+
+[] soon tm
+
+ 
+
+Normal Pack:
+
+add and experiment with mods (0.1-0.5) [x]
+core phase: main tech and magic prog (0.6.x) [-]
+add in all other prog trees (0.7.x) [-]
+exploration phase: world gen (0.8.x) []
+resource rebalencing of costs (0.9.x) []
+Pack official release after final playtesting (1.0.x) []
+Survival Pack:
+
+add/remove mods from normal pack (1.1.x) []
+reduce resource costs (1.2.x) []
+increase exploration cost (1.3.x) []
+release pack after extensive playtesting (2.0.x) []
+Skyblock pack:
+
+add/remove mods from normal pack (2.1.x) []
+increase resource costs (2.2.x) []
+release pack after extensive playtesting (3.0.x) []
+ 
+
+IMPORTANT: By installing and playing this pack, you agree that:
+
+You do NOT change any files coded in the scripts, config, or mods folder unless specified.
+You are only allowed to add cosmetic mods to this pack, nothing that changes the course of gameplay.
+You are forbidden to repost this modpack anywhere else besides CurseForge, regardless of credit given
+NOTE: If you have any issues related to crashing ,bugs, please report any issues using the GitHub issue tracker, linked above. Otherwise suggestions are welcome here and on the issue tracker. DO NOT post bugs or crashes here, please use the issue tracker!
+
+ 
+
+System requirements (not exact):
+
+Minimum:
+
+RAM: AT LEAST 8 Gb DDR3 (5.5 Gb allocation minimum*)
+CPU: 2.0 GHz, 2 cores
+Graphics card: Intel 5500 integrated tier
+here is a chart of graphics cards if you want to compare
+Storage: ````````around 400 mB, HDD
+*any less RAM will crash/freeze your game and any more (ex, 6) may crash your computer due to bad memory handling from java ONLY if you have 8 Gb of RAM
+
+ 
+
+Recommended for best experience:
+
+CPU: Intel i5 or i7 7th or 8th gen
+RAM: 16 Gb DDR4
+Graphics: any 10 series Nvidia card, 1050 is fine
+Storage: Solid State Drive (increases loading time)
+RGB (why not?)
+Changelog (*archived, not available anymore) (see more information in file changelogs):
+
+0.1.0*: Published pack with configs and oregen, as well as some conflicting item recipes removed (fake upload)
+0.1.2*: Fixed upload not to include IE core mod
+0.1.3*: Updated pack name and author name (no mods added, no configs changed)
+0.2.0: Huge update! All mods got moved to 1.12.2! Please back up your world before updating! Configs have not been changed by me, but mods may have updated them
+0.2.1: Big update, mods have been updated, added and removed, as well as configs and recipes have been changed!
+0.3.0: Materials update!!! All materials added by BASE are here! For now they will not have any recipes, that will be added during the recipe update along with everything else. They are here for testing only. Forge has been updated for this pack for FTB utilities to work. Other than that, mods have been updated/added/removed. NOTE: there is currently a bug where jei won't show the items added by BASE, but that should be fixed in the next pack update or so.
+0.4.0b*: BETA TESTING PLATFORM, PLEASE DO NOT UPDATE TO THIS VERSION, THIS IS A SEPARATE VERSION FOR TESTING REASONS ONLY (see info in changelog)
+0.4.1b2: fixed mod issue version with wireless charger to approve pack upload
+0.4.3b: Small patch to the previous beta testing platform (BTP), only some mods added and some config changes
+0.4.4b: Another patch for the beta testing platform, better placement is removed, forge is updated to latest version, and some mods have been added for fun. NOTE: there is a common bug if the pack updates from 0.4.3b to 0.4.4b, timeHUD may be copied by accident, so it is ok to delete the extra copy if you get an error during loadup.
+0.4.5b: Small update, a few mods added, removed and updated, some recipe and config changes, forge updated again
+0.4.6b: A lot of storage related things fixed, some mods removed, some updated, configs changed, forge updated (no mods have been added)
+0.4.7: Update to prepare the pack for the new changes to come! Mods have only been removed. There are also some config changes in terms of tweaks and worldgen. Forge is also updated to 2590.
+0.5.0: Magical Expansion Update! Please do NOT open any new saves now! This update is gigantic, adding over 130 mods (magic and tech) and removing some other mods! This totals to 310 mods! 6 GB of RAM is needed now due to the high amount of mods. Per usual, existing mods are updated, configs are changed, and ore gen has changed a bit. A lot of recipe fixes are in as well as the full implementation of the materials are in as well. Forge updated to 2618. Also a spinning logo on game loadup is added :D
+0.5.1: The Legible Fix! Now JEI won't be showing a bunch of unnecessary items that clutter the more important things per mod. I was able to cut down the amount of pages from the normal 105 down to just 46 pages! Some mods were removed and some were added. As usual, mods are updated, there are config changes, and forge is updated to 2624.
+0.6.0*: failed ;(
+0.6.1: MAJOR UPDATE!!!! MANY MODS HAVE BEEN REMOVED AND OTHERS HAVE BEEN ADDED! SEE FILE DESCRIPTION FOR MORE INFO!!!
+DISCLAIMER: PLEASE DO NOT LOAD OLD WORLDS FROM 0.5.1! Since I have changed the mod for handling the ID block limit from Not enough IDs to Just Enough IDs, your world WILL be corrupted due to ID changes!!!!! I AM NOT RESPONSIBLE FOR CORRUPTED WORLDS!!!!
+
+You can view the current ore generation here
